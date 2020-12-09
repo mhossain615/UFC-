@@ -4,7 +4,7 @@ We are examining different ufc fighting techniques and determining which would h
 
 ## What is the UFC (ULTIMATE FIGHTING CHAMPIONSHIP)
 
-Mixed martial arts (MMA) is a full-contact combat sport that allows a wide variety of fighting techniques and skills from a mixture of other combat sports to be used in competition. The rules allow usage of both striking and grappling techniques while standing and on the ground. Competitions allow athletes of different backgrounds to compete. Ufc started in 1993 and has revolutionized the fighting buisness and is still growing. There are many things to be pulled from the data that the UFC has for the fighters and the training camps, Learning how the fighter trains and keeps his or her body in tip top condition in order to win the matches is something we can use to evualate what is the better match up between fighters. 
+Mixed martial arts (MMA) is a full-contact combat sport that allows a wide variety of fighting techniques and skills from a mixture of other combat sports to be used in competition. The rules allow usage of both striking and grappling techniques while standing and on the ground. Competitions allow athletes of different backgrounds to compete. UFC started in 1993 and has revolutionized the fighting buisness and is still growing. There are many things to be pulled from the data that the UFC has for the fighters and the training camps, Learning how the fighter trains and keeps his or her body in tip top condition in order to win the matches is something we can use to evualate what is the better match up between fighters. 
 
 
 # DATA SETS TO BE ADDED 
