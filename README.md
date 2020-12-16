@@ -14,8 +14,11 @@ We are examining a dataset containing various attributes of UFC fighter stats, f
 ## Questions that we plan to answer with our data
 
 How accurate can our we get our model at predicting which fighter will win? 
+
 What affects the win or loss between fighters?
+
 Does fighting style matter between fighters? 
+
 What factors can we use and accurately predict fighter win chances? 
 
 For our project, we will have several different models based on the questions that we are hoping to answer:
