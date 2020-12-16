@@ -19,8 +19,7 @@ Does fighting style matter between fighters?
 What factors can we use and accurately predict fighter win chances? 
 
 For our project, we will have several different models based on the questions that we are hoping to answer:
-Supervised Machine Learning - Classification, Random Forest, SMOTEENN
-Multiple linear regressions
+Supervised Machine Learning - Classification, Random Forest, SMOTEENN, Multiple linear regressions
 
 
 We plan to create a story using tableau to present the information we have gathered
