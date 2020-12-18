@@ -19,6 +19,8 @@ What affects the win or loss between fighters?
 
 Does fighting style matter between fighters? 
 
+Which fighting style has more wins?
+
 What factors can we use and accurately predict fighter win chances? 
 
 For our project, we will have several different models based on the questions that we are hoping to answer:
