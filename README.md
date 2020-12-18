@@ -29,4 +29,4 @@ We plan to create a story using tableau to present the information we have gathe
 
 ## Description of the communication protocols
 
-We plan on meeting twice a week to work on and update the project. Communication will be managed over Slack and Zoom.
+We plan on meeting twice a week to work on and update the project. Communication will be managed over Slack and Zoom via our group channels. 
