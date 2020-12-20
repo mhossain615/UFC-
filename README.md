@@ -12,8 +12,11 @@ Mixed martial arts (MMA) is a full-contact combat sport based on striking, grapp
 ###*Role Distribution: Week 1*
 
 Square: Mohammed
+
 Triangle: Alexandra
+
 Circle: Oybek
+
 X: Felicia 
 
 ####*Purpose of Analysis*
