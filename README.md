@@ -27,7 +27,7 @@ A Git Hub repository was created for the analysis so everyone in the group can c
 
 ## **Results**
 
-While our CSV file is small (237 columns and 4,495 rows), it is complete as it contains roughly every match under the UFC umbrella.  Alexandra doubled our data by listing each fighter individually instead of working with the Red and Blue Fighter designations in the original dataset. She also renamed the Win Column to Win or Lose to better predict wins and losses with the model and for easier interpretation. Allie dropped unnecessary columns and NaN rows to further clean our data. 
+While our CSV file is small (23 columns and 8,990 rows), it is complete as it contains roughly every match under the UFC umbrella.  Alexandra doubled our data by listing each fighter individually instead of working with the Red and Blue Fighter designations in the original dataset. She also renamed the Win Column to Win or Lose to better predict wins and losses with the model and for easier interpretation. Allie dropped unnecessary columns and NaN rows to further clean our data. 
 
 ![Updated Data Shape and Types]( https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/Updated%20Data%20Shape%20and%20Types.png)
 
