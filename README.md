@@ -1,10 +1,11 @@
 #**UFC Fighter Analysis** :men_wrestling:
 
+![UFC Logo](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/UFC%20Logo.png)
+
 ##**Overview of Project**
 
 Our group members are UFC and MMA fans and would like to use the skills we learned in the course to examine fighting techniques to determine which have the most effect the win in a match. 
 
-![UFC Logo](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/UFC%20Logo.png)
 
 Mixed martial arts (MMA) is a full-contact combat sport based on striking, grappling and ground fighting, incorporating techniques from various combat sports and martial arts from around the world. Ultimate Fighting Championship (UFC) is a Las Vegas based promotion company that has revolutionized the fighting business since 1993. UFC features some of the highest-level fighters in the sport on its roster and produces events worldwide that showcase twelve weight divisions (eight men's divisions and four women's divisions).  As of 2020, the UFC has held over 500 events and grown into a globally popular multi-billion-dollar enterprise.
 
