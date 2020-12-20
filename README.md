@@ -1,6 +1,6 @@
-#**UFC Fighter Analysis** :men_wrestling:
-
 ![UFC Logo](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/UFC%20Logo.png)
+
+#**UFC Fighter Analysis** :men_wrestling:
 
 ##**Overview of Project**
 
