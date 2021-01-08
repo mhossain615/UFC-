@@ -12,6 +12,7 @@ Create table Mastertable_Text (
 	)
 	
 Create table UFC_DATASET (
+	Match_ID INT PRIMARY KEY,
 	no_of_rounds_total INT,
 	total_draw INT,
 	total_losses INT,
@@ -27,7 +28,7 @@ Create table UFC_DATASET (
 	finish VARCHAR
 	)
 	
-	select mastertable_text.Fighter_total, ufc_dataset.total_wins, ufc_dataset.total_losses,ufc_dataset.total_draw
+select mastertable_text.Fighter_total, ufc_dataset.total_wins, ufc_dataset.total_losses,ufc_dataset.total_draw
 from mastertable_text
 inner join ufc_dataset ON mastertable_text.Match_ID=ufc_dataset.Match_ID;
 
