@@ -7,7 +7,7 @@ Being fans of UFC and MMA fighting, we have chosen to examine UFC Fighter stats 
 
 Mixed martial arts (MMA) is a full-contact combat sport that allows a wide variety of fighting techniques and skills from a mixture of other combat sports to be used in competition. The rules allow usage of both striking and grappling techniques while standing and on the ground. Competitions allow athletes of different backgrounds to compete. UFC started in 1993 and has revolutionized the fighting buisness and is still growing. There are many things to be pulled from the data that the UFC has for the fighters and the training camps, Learning how the fighter trains and keeps his or her body in tip top condition in order to win the matches is something we can use to evualate what is the better match up between fighters. 
 
-# Data Source
+## Data Source
 
 We are examining a dataset containing various attributes of UFC fighter stats, fighting techniques, and body metrics. Using these features as inputs, we hope to use machine learning to determine which fighter would win in a match due to specific height, weight, finish, stance and many other metrics. The CSV file containing our data has 137 columns and 4,495 rows. 
 
@@ -29,4 +29,4 @@ We plan to create a story using tableau to present the information we have gathe
 
 ## Description of the communication protocols
 
-We plan on meeting twice a week to work on and update the project. Communication will be managed over Slack and Zoom.
+We plan on meeting twice a week to work on and update the project. Communication will be managed over Slack and Zoom via our group channels. 
