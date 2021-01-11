@@ -48,7 +48,6 @@ While our CSV file is small (23 columns and 8,990 rows), it is complete as it co
 *Note: Dropping the NaN rows reduced our data by 754 rows.*
 
 She also renamed the Win Column to Win or Lose to better predict wins (1) and losses (0) with the model and for easier interpretation, converted columns with data type object to a list so the model can read the encoded information and used OneHotEncoder to encode and read the data into the model. 
-![Revised Data Shape 1.10](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/Revised%20Data%20Shape%201.10.png)
 
 *Segment 2*
 
@@ -76,6 +75,8 @@ Lastly, we began to develop our dashboard. Felicia generated images in Tableau t
 ![1.10 Slack Convo A](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/1.10%20Slack%20Convo%20A.png)
 
 ![1.10 Slack Convo B](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/1.10%20Slack%20Convo%20B.png)
+
+![1.10 Slack Convo C](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/1.10%20Slack%20Convo%20C.png)
 
 ## **Summary**
 
