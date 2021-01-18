@@ -104,4 +104,4 @@ We performed an exploratory analysis and established a baseline accuracy score. 
 
 *Segment 3*
 
-To fine tune our model’s accuracy, we used linear regression to identify the most significant variables.  While we were able to remove the noise and improve the model’s precision, we didn’t have enough data to explain the variance so we used our dashboard to visualize interesting observations from the dataset such as countries with the most winning fighters, winning stances and winning finishes.
+To fine tune our model’s accuracy, we used linear regression to identify the most significant variables.  While we were able to remove the noise and improve the model’s precision, we didn’t have enough data to explain the variance so we used our dashboard to visualize interesting observations from the dataset such as countries with the most winning fighters, winning stances and winning  finishes.
