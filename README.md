@@ -35,6 +35,16 @@ Circle: Felicia
 
 X: Oybek
 
+#### *Role Distribution: Segment 3*
+
+Square: Mohammed
+
+Triangle: Felicia
+
+Circle: Oybek
+
+X: Alexandra
+
 ## **Results**
 
 *Segment 1*
@@ -60,12 +70,6 @@ Random Forest is our preferred modeling tool because it:
 
 ![12.20 Accuracy Score](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/12.20%20Accuracy%20Score.png)
 
-Allie is sure we can improve the model’s accuracy as we work. A few ways to improve our accuracy are:
-
-* Feature Selection – Finding the best subset of attributes which better explain the relationship between a fighter’s characteristics (independent variables) and winning matches (target variable). Visualization, like Mohammed’s work with our Tableau Dashboard, will help.  
-* Algorithm Tuning- Finding the optimum value for each parameter. We will need to decide which is more important- speed or performance. Max_features will improve the performance of the model by having more options to consider but we will need to maintain the right balance and select the best features for our model. 
-* Ensemble Methods- Combining multiple weak models to produce better results; The most common solution
-
 This week, Mohammed created a database using SQL to store static data for use during the project.  Our database includes two tables, UFC Dataset and Mastertable_Text, and is joined using Match ID. To make sure we used the best entities, Mo mapped our database with an Entity Relationship Diagram. 
 
 ![1.10 ERD Diagram](https://github.com/mhossain615/UFC-/blob/main/Resources/1.10_ERD_Diagram.PNG)
@@ -78,6 +82,16 @@ Lastly, we began to develop our dashboard. Felicia generated images in Tableau t
 
 ![1.10 Slack Convo C](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/Resources/1.10%20Slack%20Convo%20C.png)
 
+*Segment 3*
+
+We decided to use feature selection to find the best attributes to explain the relationship between a fighter’s characteristics and winning matches. A linear regression model helped us identify which variables were most significant. This removed the noise in our model but the accuracy didn’t improve.
+
+![1.17 Regression Results](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/1.17%20Regression%20Results.png)
+
+We were able to improve the false negatives and positives - making our model more precise. However, we didn’t have enough data to explain the variance.
+
+![1.17 Accuracy](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/1.17%20Accuracy.png)
+
 ## **Summary**
 
 *Segment 1*
@@ -88,3 +102,6 @@ This week we created the foundation for our UFC fighter analysis project by defi
 
 We performed an exploratory analysis and established a baseline accuracy score. Next, we’ll need to decide how we’d like to improve our model’s accuracy.  If given more time, visualization, like Felicia’s work with our Tableau Dashboard, will help us identify areas for fine tuning to improve our model’s accuracy.  An interactive dashboard is a powerful tool that can lend great strength to analysis. 
 
+*Segment 3*
+
+To fine tune our model’s accuracy, we used linear regression to identify the most significant variables.  While we were able to remove the noise and improve the model’s precision, we didn’t have enough data to explain the variance so we used our dashboard to visualize interesting observations from the dataset such as countries with the most winning fighters, winning stances and winning finishes.
