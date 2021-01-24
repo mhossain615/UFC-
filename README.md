@@ -9,11 +9,10 @@ Mixed martial arts (MMA) is a full-contact combat sport based on striking, grapp
 Our group members are UFC and MMA fans and would like to use the skills we learned in the course to examine fighting techniques to determine which have the most effect the win in a match.  Using a Kaggle dataset containing various attributes of UFC fighter stats, fighting techniques and body metrics, we will predict winning fighters with machine learning.
 
 A Git Hub repository was created for the analysis so everyone in the group can contribute and review information.  The group will meet twice a week during our scheduled class sessions on Zoom to work on the project and use our team Slack channel to communicate during the week. Our final results were presented to the class using [Google Slides](https://docs.google.com/presentation/d/18Cxp3PjPnAGgf5WXCS25jbGCLoUxWPLZI5XRFcuP76c/edit?usp=sharing). 
-[Presentation](https://docs.google.com/presentation/d/18Cxp3PjPnAGgf5WXCS25jbGCLoUxWPLZI5XRFcuP76c/edit?usp=sharing)
 
-[PDF](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/UFC%20Analysis%20Presentation%20FINAL.pdf)
+[Presentation PDF](https://github.com/mhossain615/UFC-/blob/Felicia_Branch/UFC%20Analysis%20Presentation%20FINAL.pdf)
 
-[PowerPoint](https://github.com/mhossain615/UFC-/blob/main/UFC%20Analysis%20Presentation%20FINAL.pptx)
+[Presentation PowerPoint](https://github.com/mhossain615/UFC-/blob/main/UFC%20Analysis%20Presentation%20FINAL.pptx)
 
 ## **Results**
 
