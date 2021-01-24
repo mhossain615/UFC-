@@ -63,7 +63,7 @@ We created the foundation for our UFC fighter analysis project by defining roles
 
 In Segment 2, we performed an exploratory analysis and established a baseline accuracy score. Next, we created a database in SQL and decided how to improve our model’s accuracy. 
 
-To fine tune our model’s accuracy, we used linear regression to identify the most significant variables.  While we were able to remove the noise and improve the model’s precision, we didn’t have enough data to explain the variance so we used our dashboard to visualize interesting observations from the dataset such as countries with the most winning fighters, winning stances and winning finishes. If given more time, we would add more data to the model but using datasets from other MMA leagues.
+To fine tune our model’s accuracy, we used linear regression to identify the most significant variables.  While we were able to remove the noise and improve the model’s precision, we didn’t have enough data to explain the variance so we used the dashboard Oybek created to visualize interesting observations from the dataset such as countries with the most winning fighters, winning stances and winning finishes. If given more time, we would add more data to the model but using datasets from other MMA leagues.
 
 ![Fighters By Country](https://github.com/mhossain615/UFC-/blob/main/Resources/numberoffightersbycountry.png)
 
